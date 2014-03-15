@@ -3,7 +3,8 @@
     "version": "0.1.0",
     "dependencies": {
         "montage": "~0.14.0",
-        "digit": "~0.5.0"
+        "digit": "~0.5.0",
+        "matte": "0.2.0"
     },
     "devDependencies": {
         "montage-testing": "~0.4.0"
@@ -11,5 +12,14 @@
     "exclude": [
         "run-tests.html",
         "test"
-    ]
+    ],
+    "author": {
+        "name": "Kristie Starink",
+        "email": "kristie@starink.com",
+        "url": "montagestudio.com/demo"
+    },
+    "description": "This is my test project",
+    "private": true,
+    "license": "bsd",
+    "homepage": "montagestudio.com"
 }
